@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82891b43-58ae-4060-8290-7c671005cfa8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/functions/prova.sql" beforeDir="false" afterPath="$PROJECT_DIR$/functions/prova.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715877416517</updated>
-      <workItem from="1715877417607" duration="898000" />
+      <workItem from="1715877417607" duration="1303000" />
     </task>
     <servers />
   </component>
